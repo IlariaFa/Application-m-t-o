@@ -19,3 +19,6 @@ En cours
 
 ### Auteurs
 Pablo Mombo et Ilaria Fantini au sein de la formation  be<\code>, Bruxelles 2/5 avrile 2019
+
+![Screenshot](Capture d’écran de 2019-04-05 16-58-28.png)
+![Screenshot](Capture d’écran de 2019-04-05 16-58-41.png)
