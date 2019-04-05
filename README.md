@@ -20,5 +20,5 @@ En cours
 ### Auteurs
 Pablo Mombo et Ilaria Fantini au sein de la formation  be<\code>, Bruxelles 2/5 avrile 2019
 
-![Screenshot](applimeteo.png)
+![Screenshot](appmeteo.pdf)
 
